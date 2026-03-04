@@ -1,0 +1,1 @@
+# Basit-not-Class-komutlar-python
